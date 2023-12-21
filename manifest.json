@@ -1,0 +1,7 @@
+﻿{
+    "name": "Death_Messages",
+    "description": "Adds randomized Terraria-style death messages based on how you died, sent straight into chat for your company to enjoy.",
+    "version_number": "0.0.1",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"],
+    "website_url": "https://github.com/ASPNyan/LCDeathMessages"
+}
