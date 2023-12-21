@@ -1,4 +1,4 @@
-﻿# [Lethal Company Death Messages](https://github.com/ASPNyan/LCDeathMessages)
+# [Lethal Company Death Messages](https://github.com/ASPNyan/LCDeathMessages)
 #### [Also on Lethal Company Thunderstore]()
 [//]: # (Add thunderstore link)
 
