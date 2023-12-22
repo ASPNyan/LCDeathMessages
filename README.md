@@ -1,6 +1,5 @@
 # [Lethal Company Death Messages](https://github.com/ASPNyan/LCDeathMessages)
-#### [Also on Lethal Company Thunderstore]()
-[//]: # (Add thunderstore link)
+#### [Also on Lethal Company Thunderstore](https://thunderstore.io/c/lethal-company/p/ASPNyan/Death_Messages/)
 
 ---
 LC Death Messages adds randomized Terraria-style death messages based on how you died, sent straight into chat for your
@@ -10,7 +9,7 @@ Featuring messages such as *"Player's incompetence was put on display"* or *"Pla
 all death messages are based on Terraria and its creative death messages.
 
 Jokes aside, this mod can provide at least some amount of useful information to your team, although they shouldn't need
-this information because you shouldn't be dying ¯\_(ツ)_/¯.
+this information because you shouldn't be dying ¯\\\_(ツ)\_/¯.
 
 This mod is only required on the host machine, so adding it to your game is about as easy as it gets.
 
